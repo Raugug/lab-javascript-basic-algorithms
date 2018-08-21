@@ -1,4 +1,4 @@
-/ which one is longer
+// which one is longer
 var hacker1 = "ricardo";
 var hacker2 = prompt("Whats the drivers name?");
 var hacker1Length = hacker1.length;
